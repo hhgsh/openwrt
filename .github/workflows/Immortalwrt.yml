@@ -45,7 +45,7 @@ on:
           - '关闭'
           - 'Telegram'
           - 'Pushplus'
-      SSH_ACTION:
+      SSH:
         description: 'SSH远程配置固件'
         required: false
         default: 'false'
